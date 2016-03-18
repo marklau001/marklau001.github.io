@@ -1,0 +1,31 @@
+body {
+  background: black;
+}   
+p {font-size: 50px;
+color: green;  
+}
+a {
+  color: black;
+  text-decoration: none;
+  background: red;
+  padding: 20px;
+  font-size: 20px;
+}
+
+h1 {
+  color: blue;
+  font-family: arial; 
+}
+
+.poop {
+  background: url("http://static.lolskill.net/img/skins/1215/teemo_0.jpg");
+  height: 600px;
+  width: 1200px;
+}
+ button {
+  color: black;
+  text-decoration: arial;
+  background: red;
+  padding: 30px;
+   font-size: 30px;
+}
