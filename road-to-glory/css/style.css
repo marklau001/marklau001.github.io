@@ -1,0 +1,36 @@
+body {
+    display: block;
+    margin: 8px;
+      background-image: url("https://thebestpictureproject.files.wordpress.com/2011/06/savingprivateryan2.jpg");
+    background-size: cover;
+   font-family: 'MedievalSharp', cursive;
+}
+.button {
+    border: 5px solid white;
+    color: white;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: transparent;
+    box-shadow: 15px 15px 80px #555;
+}
+
+.button:hover {
+  background: white;
+  color: black;
+}
+
+.titleContent {
+    margin: 10% auto;
+    text-align: center;
+}
+.splashTitle {
+  font-size: 100px;
+  color: brown;
+}
+.abcdefg {
+  font-size: 20px;
+  color: black;
+  text-shadow: 1px 1px 6px white;
+  text-align: center;
+}
